@@ -29,7 +29,7 @@ export MODEL_PATH=$PWD/inference/text_to_image/model/
 ```
 ### Clone the repository
 ```bash
-git clone --recurse-submodules https://github.com/mlcommmons/inference.git --depth 1
+git clone --recurse-submodules https://github.com/mlcommons/inference.git --depth 1
 ```
 Finally copy the `mlperf.conf` file to the stable diffusion folder
 ```bash
